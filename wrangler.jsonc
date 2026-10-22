@@ -33,7 +33,7 @@
     // Your own Nano address (Berry Wallet: Receive, then Copy). Players pay you here, and only this
     // address can open /admin. This example address belongs to nobody: while it stays, the game is in
     // test mode and every pay screen says "TEST MODE: DO NOT PAY".
-    "RECEIVE_ADDRESS": "nano_3kcicxkmy4qxmt6ir51mx71jgjewmitow85xbup6xiqz6r4mchrq7uca8ddy",
+    "RECEIVE_ADDRESS": "nano_1kennndirjduamcam3tsomhxrifoqg7xiomq4haypzhoqrx4kywczux5sbbc",
     // "on" keeps test mode even with your own address. "off" sells for real.
     "TEST_MODE": "on",
     // Optional: the public site key of a Cloudflare Turnstile widget (its secret is TURNSTILE_SECRET).
